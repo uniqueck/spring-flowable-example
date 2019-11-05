@@ -1,0 +1,8 @@
+= Spring Flowable Example
+
+This example is based on https://www.youtube.com/watch?v=43_OLrxU3so[Spring Tips: Business Process Management with Flowable]
+
+== TODO
+
+* https://github.com/flowable/flowable-engine/tree/master/modules/flowable-image-generator[see for generating image for bpmn]
+* https://github.com/bpmn-io/bpmn-js-examples/tree/master/url-viewer[show BPMN via bpmn-js]
